@@ -1,4 +1,4 @@
-img {
+.logo-mario {
     height: 200px;
 }
 
@@ -11,4 +11,13 @@ button {
     height: 50px;
     cursor: pointer;
     text-transform: uppercase;
+}
+
+.imagem-mario-luigi {
+    height: 500px;
+
+}
+
+body {
+    display: flex;
 }
